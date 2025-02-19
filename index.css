@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: black;
+}
+
+
+.barraDePesquisa{
+    background-color: cadetblue;
+}
+
+.fotoPerfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+
