@@ -6,10 +6,13 @@ body{
     color: black;
 }
 
-
-.barraDePesquisa{
+header{
     background-color: cadetblue;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
+
 
 .fotoPerfil{
     width: 100px;
@@ -18,4 +21,8 @@ body{
     border: 3px solid white;
 }
 
+a{
+    text-decoration: none;
+    color: #f4f4f4;
+}
 
