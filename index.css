@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: darkgray;
+    color: black;
     align-items: center;
 }
 
@@ -31,10 +31,11 @@ a{
     padding: 20px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
-    border-radius: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     margin: 20px;
     color: black;
 }
+
 
 
 footer{ 
